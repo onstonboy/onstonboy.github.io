@@ -133,3 +133,5 @@ inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
 yeahmobi.com, 5135195, RESELLER
 google.com, pub-9655032486409218, RESELLER
+admixplay.com, 2012, RESELLER
+bidease.com, exchange-20, RESELLER
